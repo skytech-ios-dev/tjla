@@ -11,7 +11,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>http://192.168.4.135:8080/flyz/platform/announce/tjla.ipa</string>
+                        <string>http://58.213.129.233:8080/oa/ios/phone/jeoa.ipa</string>
                     </dict>
 
                     <!-- display-image: the icon to display during download. -->
